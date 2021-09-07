@@ -5,4 +5,5 @@
 * библиотека - Leaflet
 ### Цели проекта:
 Создание интерактивных карт для ФГБУ "ИНСТИТУТ ГЛОБАЛЬНОГО КЛИМАТА И ЭКОЛОГИИ ИМЕНИ АКАДЕМИКА Ю. А. ИЗРАЭЛЯ". 
+### Ссылка на ИГКЭ: <http://www.igce.ru/wp-content/inter-map-data/1-2/1-2-1/index.html/>
 ### Ссылка на GitHub Pages: <https://petrudin.github.io/Map-Average_precipitation_season/>
